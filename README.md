@@ -2,4 +2,7 @@
 My first repository on GitHub
 # An Electronic & Photovoltaic Researcher
 In the field of data science, using artificial intelligence (AI) in scientific research.
-# Domain: Renewable energy Sector
+# Domain Area: 
+Electroncis & Communication
+Renewable Energy Sector
+Inforamtion Technology
